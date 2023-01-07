@@ -1,5 +1,5 @@
 - 👋 Hi, I’m IslemBoualami
-- 👀 I’m 23 Years old, Computer science student
+- 👀 Computer science student
 - 🌱 I’m currently learning to code
 - 📫 You can contact me at: islemblm@outlook.com
 
